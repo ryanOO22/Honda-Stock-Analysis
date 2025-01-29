@@ -1,7 +1,7 @@
 # Honda-Stock-Analysis 1980-2024
  
 # Description
-  In this project, I perform an analysis of Honda stock data collected from 1980 to 2024. The main objective of the project is to perform basic Exploratory Data Analysis and in the process I uncover trends and make meaningful visualisations to represent the data. I will also perform correlation analysis and volatility analysis to identify patterns, trends, or anomalies in fluctuating data.
+  In this project, I conduct an analysis of Honda stock data spanning from 1980 to 2024. The primary objective is to perform exploratory data analysis (EDA) to uncover key trends and create meaningful visualizations that represent the data effectively. Additionally, I will carry out correlation and volatility analysis to identify patterns, trends, and potential anomalies in the fluctuating data, providing deeper insights into the stock’s behavior over time.
 
 # Key findings
   Some findings from the analysis were: 
